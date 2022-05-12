@@ -47,3 +47,4 @@ class LevelLoaderTest {
 class LevelTooBigException extends Exception {
     public LevelTooBigException() {
     }
+}
